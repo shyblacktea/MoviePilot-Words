@@ -24,7 +24,4 @@ SPYxFAMILY CODE White => {[tmdbid=1062807;type=movie]}
 
 Rekishi ni Nokoru Akujo ni Naruzo => 成为名留历史的坏女人吧 愈是想成为反派千金，王子的溺爱愈是热烈！
 
-Tensei.Kizoku.Kantei.Skill.de.Nariagaru.S01E(1[3-9]|2[0-9]) => Tensei.Kizoku.Kantei.Skill.de.Nariagaru.S02E\1 && S02 <> 1080p >> EP-12
-As a Reincarnated Aristocrat I ll Use My Appraisal Skill to Rise in the World 2024 S01E(1[3-9]|2[0-9]) => Tensei.Kizoku.Kantei.Skill.de.Nariagaru.S02E\1 && S02 <> 1080p >> EP-12
-
 Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01  <> 2024 >> EP+50
