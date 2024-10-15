@@ -22,12 +22,11 @@ Spy.Catcher.J3.S01.2024.1080p.friDay.WEB-DL.H264.AAC-ADWeb =>  {[tmdbid=698222;t
 SPYxFAMILY CODE White => {[tmdbid=1062807;type=movie]}
 Rekishi ni Nokoru Akujo ni Naruzo => 成为名留历史的坏女人吧 愈是想成为反派千金，王子的溺爱愈是热烈！
 Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01  <> 2024 >> EP+50
-Yi.Nian.Yong.Heng.S03 => 永恒.S03 {[tmdbid=258451;type=tv;s=3]}
-Yi.Nian.Yong.Heng.S02 => 永恒.S03 {[tmdbid=258451;type=tv;s=2]}
-Yi.Nian.Yong.Heng.S01 => 永恒.S01 {[tmdbid=258451;type=tv;s=1]}
-A.Will.Eternal.2020.S03 => 永恒.S03 {[tmdbid=258451;type=tv;s=3]}
-A.Will.Eternal.2022.S02 => 永恒.S02 {[tmdbid=258451;type=tv;s=2]}
-A.Will.Eternal.2020.S01 => 永恒.S01 {[tmdbid=258451;type=tv;s=1]}
-一念永恒 => 永恒
+Yi.Nian.Yong.Heng.S03 => 一念永恒.S03 {[tmdbid=258451;type=tv;s=3]}
+Yi.Nian.Yong.Heng.S02 => 一念永恒.S03 {[tmdbid=258451;type=tv;s=2]}
+Yi.Nian.Yong.Heng.S01 => 一念永恒.S01 {[tmdbid=258451;type=tv;s=1]}
+A.Will.Eternal.2020.S03 => 一念永恒.S03 {[tmdbid=258451;type=tv;s=3]}
+A.Will.Eternal.2022.S02 => 一念永恒.S02 {[tmdbid=258451;type=tv;s=2]}
+A.Will.Eternal.2020.S01 => 一念永恒.S01 {[tmdbid=258451;type=tv;s=1]}
 Oppenheimer => 奥本海默
 #自定义 ----------------------------------------------------------------------------------------------------------------------------
