@@ -20,5 +20,6 @@ Jujutsu.Kaisen.S02 => 咒术回战.S02
 Monogatari.Series.Off.Monster.Season.S01 => 物语系列 S5
 Rekishi ni Nokoru Akujo ni Naruzo => 成为名留历史的坏女人吧 愈是想成为反派千金，王子的溺爱愈是热烈！
 Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01  <> 2024 >> EP+50
-A.Will.Eternal => 一念永恒{[tmdbid=276302;type=tv]}
+A.Will.Eternal.S03 => 一念永恒{[tmdbid=276302;type=tv;s=3]}
+Yi.Nian.Yong.Heng.S03 => 一念永恒{[tmdbid=276302;type=tv;s=3]}
 Oppenheimer => 奥本海默
