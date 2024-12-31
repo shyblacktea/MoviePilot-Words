@@ -23,3 +23,4 @@ Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03 => Re.Zero.kara.Hajimeru.Isekai.Seikat
 A.Will.Eternal.S03 => 一念永恒{[tmdbid=276302;type=tv;s=3]}
 Yi.Nian.Yong.Heng.S03 => 一念永恒{[tmdbid=276302;type=tv;s=3]}
 Oppenheimer => 奥本海默
+Shameless => 无耻之徒 {[tmdbid=34307;type=tv]}
