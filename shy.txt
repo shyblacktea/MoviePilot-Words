@@ -1,26 +1,46 @@
 关于我转生变成史莱姆这档事 第三季 - (\d{1,2}) .* => 关于我转生变成史莱姆这档事.S3 E\1  {[tmdbid=82684;type=tv;]} && 关于我转生变成史莱姆这档事.S3 E <>  >> EP-48
+
 鬼滅之刃 柱訓練篇 => 鬼灭之刃 S05
+
 BREAKER—防風少年 => 防风铃
+
 從 Lv2 開始開外掛的前勇者候補過著悠哉異世界生活 => Lv2 kara Cheat datta
+
 轉生為第七王子，隨心所欲的魔法學習之路 => 转生为第七王子，随心所欲的魔法学习之路
 轉生為第七王子，隨心所欲的魔法學習之路 => {[tmdbid=213830;type=tv;]}
+
 無職轉生～到了異世界就拿出真本事 第二季 => 无职转生 ～到了异世界就拿出真本事～ S02
+
 關於我們把節目全部丟給聲優那件事 => 声优广播的台前幕后
+
 Jujutsu.Kaisen.S02 => 咒术回战.S02
 咒术回战.S02 => 咒术回战.S01  && S01 <> 1080P >> EP
+
 魔法科高中的劣等生 第三季 => 魔法科高校的劣等生 S03
+
 (?<=枫雪动漫.*?)ONE PIECE 海贼王 => One Piece(1999) S22
+
 特别篇 => S00
+
 異世界自殺突擊隊 => 异世界自杀小队
+
 新人大叔冒险者，被最强队伍操到死成无敌 => 大叔新人冒险者，被最强小队拼死锻炼后无敌了
 新人大叔冒險者，被最強隊伍操到死成無敵 => 大叔新人冒险者，被最强小队拼死锻炼后无敌了
 
 情欲九歌 => Nine Songs
 9.Songs.UNRATED => Nine Songs
+
 Monogatari.Series.Off.Monster.Season.S01 => 物语系列 S5
+
 Rekishi ni Nokoru Akujo ni Naruzo => 成为名留历史的坏女人吧 愈是想成为反派千金，王子的溺爱愈是热烈！
+
 Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01  <> 2024 >> EP+50
+
 A.Will.Eternal.S03 => 一念永恒{[tmdbid=276302;type=tv;s=3]}
 Yi.Nian.Yong.Heng.S03 => 一念永恒{[tmdbid=276302;type=tv;s=3]}
+
 Oppenheimer => 奥本海默
+
 Shameless => 无耻之徒 {[tmdbid=34307;type=tv]}
+
+S-Rank Monster no Behemoth Dakedo Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu => S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士(宠物)一起生活 {[tmdbid=249545;type=tv]}
