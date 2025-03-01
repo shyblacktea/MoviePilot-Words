@@ -1,3 +1,9 @@
+A.Will.Eternal.S03(?=.*ADWeb) => A.Will.Eternal.S01 && S01 <> 2024 >> EP+106
+A.Will.Eternal.S02(?=.*ADWeb) => A.Will.Eternal.S01 && S01 <> 2022 >> EP+52
+Yi.Nian.Yong.Heng.S03(?=.*ADWeb) => A.Will.Eternal.S01 && S01 <> 2024 >> EP+106
+Yi.Nian.Yong.Heng.S02(?=.*ADWeb) => A.Will.Eternal.S01 && S01 <> 2022 >> EP+52
+
+#========以下识别词由 RemoteIdentifiers 插件添加========#
 关于我转生变成史莱姆这档事 第三季 - (\d{1,2}) .* => 关于我转生变成史莱姆这档事.S3 E\1  {[tmdbid=82684;type=tv;]} && 关于我转生变成史莱姆这档事.S3 E <>  >> EP-48
 
 鬼滅之刃 柱訓練篇 => 鬼灭之刃 S05
@@ -36,8 +42,6 @@ Rekishi ni Nokoru Akujo ni Naruzo => 成为名留历史的坏女人吧 愈是想
 
 Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01  <> 2024 >> EP+50
 
-A.Will.Eternal.S03 => 一念永恒{[tmdbid=276302;type=tv;s=3]}
-Yi.Nian.Yong.Heng.S03 => 一念永恒{[tmdbid=276302;type=tv;s=3]}
 
 Oppenheimer => 奥本海默
 
