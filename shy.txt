@@ -27,7 +27,7 @@ Jujutsu.Kaisen.S02 => 咒术回战.S02
 
 魔法科高中的劣等生 第三季 => 魔法科高校的劣等生 S03
 
-(?<=枫雪动漫.*?)ONE PIECE 海贼王 => One Piece(1999) S22
+海贼王ONE PIECE => {[tmdbid=37854;type=tv;]}
 
 特别篇 => S00
 
