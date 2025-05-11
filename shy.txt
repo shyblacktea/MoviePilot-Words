@@ -1,3 +1,12 @@
+海贼王ONE PIECE => {[tmdbid=37854;type=tv;]}
+DTS-HDMA => DTS-HD.MA
+
+#在地下城寻求邂逅是否搞错了什么【ADE】
+Is.It.Wrong.to.Try.to.Pick.Up.Girls.in.a.Dungeon => Danmachi
+Danmachi.S01OVA(?=.+ADE) => Danmachi.S00E01
+Danmachi.S02OVA(?=.+ADE) => Danmachi.S00E03
+Danmachi.S03OVA(?=.+ADE) => Danmachi.S00E04
+
 (?:一念永恒\.)?.A.Will.Eternal.2022.S02 => A.Will.Eternal.S01 && S01 <> WEB-DL >> EP+52
 (?:一念永恒\.)?.A.Will.Eternal.2022.S02 => A.Will.Eternal.S01 && S01 <>  WEB-DL >> EP+52
 (?:一念永恒\.)?A.Will.Eternal.S02 => A.Will.Eternal.S01 && S01 <> 2022 >> EP+52
