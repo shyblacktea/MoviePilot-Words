@@ -1,3 +1,13 @@
+# 2025年7月新番
+Kaijuu.8.gou.S02(?=.*ADWeb) => Kaijuu.8.gou.S01
+Seishun.Buta.Yarou.wa.Santa.Claus.no.Yume.wo.Minai.S01 => 青春猪头少年不会梦到兔女郎学姐 S02
+Kanojo.Okarishimasu.S04 => Kano Kari.S01 && S01 <> 2025 >> EP+36
+Mattaku Saikin no Tantei to Kitara => 最近的侦探真没用
+Above the Kingdom of God => 神国之上
+Yuusha.Party.wo.Tsuihou.Sareta.Shiro.Madoushi.S.Rank.Boukensha.ni.Hirowareru.Kono.Shiro.Madoushi.ga.Kikakugaisugiru.S01 => 被驱逐开勇者派对的白魔导师，被S级冒险者捡到 ～这个白魔导师超规格～ {[tmdbid=284771;type=tv;]}
+Sono.Bisque.Doll.wa.Koi.wo.Suru => 更衣人偶坠入爱河 {[tmdbid=123249;type=tv;]} && S01 <> 2025 >> EP+12
+#========以下识别词由 RemoteIdentifiers 插件添加========#
+
 海贼王ONE PIECE => {[tmdbid=37854;type=tv;]}
 DTS-HDMA => DTS-HD.MA
 
