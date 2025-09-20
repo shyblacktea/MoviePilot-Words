@@ -1,6 +1,6 @@
-Kizumonogatari Part 1 => 伤物语1
-Kizumonogatari Part 2 => 伤物语2
-Kizumonogatari Part 3 => 伤物语3
+Kizumonogatari.Part.1.Tekketsu.S01E01 => 伤物语1：铁血篇 {[tmdbid=357786;type=movie]}
+Kizumonogatari.Part.2.Nekketsu-hen.S01E01 => 伤物语2：热血篇 {[tmdbid=362584;type=movie]}
+Kizumonogatari.Part.3.Reiketsu-hen.S01E01 => 伤物语3：冷血篇 {[tmdbid=362585;type=movie]}
 
 Love Between Fairy and Devil => 苍兰诀 {[tmdbid=206534;type=tv;]}
 苍兰诀.Love.Between.Fairy.and.Devil.S01 => 苍兰诀 {[tmdbid=206534;type=tv;s=1]}
