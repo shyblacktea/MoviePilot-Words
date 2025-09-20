@@ -1,3 +1,12 @@
+Kizumonogatari Part 1 => 伤物语1
+Kizumonogatari Part 2 => 伤物语2
+Kizumonogatari Part 3 => 伤物语3
+
+Love Between Fairy and Devil => 苍兰诀 {[tmdbid=206534;type=tv;]}
+苍兰诀.Love.Between.Fairy.and.Devil.S01 => 苍兰诀 {[tmdbid=206534;type=tv;s=1]}
+Steins;Gate.0 => 命运石之门0
+Is.?This.?a.?Zombie => 这个是僵尸吗？
+
 # 2025年7月新番
 Kaijuu.8.gou.S02(?=.*ADWeb) => Kaijuu.8.gou.S01
 Seishun.Buta.Yarou.wa.Santa.Claus.no.Yume.wo.Minai.S01 => 青春猪头少年不会梦到兔女郎学姐 S02
