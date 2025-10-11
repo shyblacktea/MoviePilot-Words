@@ -62,8 +62,6 @@ Jujutsu.Kaisen.S02 => 咒术回战.S02
 情欲九歌 => Nine Songs
 9.Songs.UNRATED => Nine Songs
 
-Monogatari.Series.Off.Monster.Season.S01 => 物语系列 S5
-
 Rekishi ni Nokoru Akujo ni Naruzo => 成为名留历史的坏女人吧 愈是想成为反派千金，王子的溺爱愈是热烈！
 
 Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01  <> 2024 >> EP+50
