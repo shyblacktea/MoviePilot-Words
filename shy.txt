@@ -1,3 +1,4 @@
+Prison School => 监狱学园 {[tmdbid=64706;type=tv;]
 Monogatari.Series => 物语系列 {[tmdbid=46195;type=tv;]
 Invaders.of.the.Rokujyouma => 三坪房间的侵略者 {[tmdbid=70805;type=tv;]}
 My.Dress-Up.Darling.S01 => Sono.Bisque.Doll.wa.Koi.wo.Suru.S01 {[tmdbid=123249;type=tv;]}
