@@ -1,5 +1,5 @@
 #我推的孩子 第三季【ADWeb】
-Oshi.no.Ko.S03E(?=.*ADWeb) => 我推的孩子 {[tmdbid=203737;type=tv;]}Oshi.no.Ko.S01E && S01E <> 2026 >> EP+24
+Oshi.no.Ko.S03E(?=.*ADWeb) => 我推的孩子 {[tmdbid=203737;type=tv;]} Oshi.no.Ko.S01E && S01E <> 2026 >> EP+24
 海贼王ONE PIECE => {[tmdbid=37854;type=tv;]}
 Prison School => 监狱学园 {[tmdbid=64706;type=tv;]
 Monogatari.Series => 物语系列 {[tmdbid=46195;type=tv;]
