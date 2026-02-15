@@ -1,14 +1,28 @@
+Sousou.no.Frieren.S02E(?=.*ADWeb) => Sousou.no.Frieren.S01E && S01E <> 2026 >> EP+28
+
+转生之后的我变成了龙蛋～目标是世界最强～ => 转生之后的我变成了龙蛋{[tmdbid=285291;type=tv;]}
+
+Mob.Psycho => 灵能百分百 {[tmdbid=67075-100;type=tv;]}
+
 #我推的孩子 第三季【ADWeb】
 Oshi.no.Ko.S03E(?=.*ADWeb) => Oshi.no.Ko.{[tmdbid=203737;type=tv]}.S01E && S01E <> 2026 >> EP+24
-【我推的孩子】 => 我推的孩子{[tmdbid=203737;type=tv]}海贼王ONE PIECE => {[tmdbid=37854;type=tv;]}
+【我推的孩子】 => 我推的孩子{[tmdbid=203737;type=tv]}
+
+海贼王ONE PIECE => {[tmdbid=37854;type=tv;]}
+
 Prison School => 监狱学园 {[tmdbid=64706;type=tv;]
+
 Monogatari.Series => 物语系列 {[tmdbid=46195;type=tv;]
+
 Invaders.of.the.Rokujyouma => 三坪房间的侵略者 {[tmdbid=70805;type=tv;]}
+
 My.Dress-Up.Darling.S01 => Sono.Bisque.Doll.wa.Koi.wo.Suru.S01 {[tmdbid=123249;type=tv;]}
 
 Love Between Fairy and Devil => 苍兰诀 {[tmdbid=206534;type=tv;]}
 苍兰诀.Love.Between.Fairy.and.Devil.S01 => 苍兰诀 {[tmdbid=206534;type=tv;s=1]}
+
 Steins;Gate.0 => 命运石之门0
+
 Is.?This.?a.?Zombie => 这个是僵尸吗？
 
 # 2025年7月新番
