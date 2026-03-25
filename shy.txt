@@ -1,3 +1,6 @@
+#关于我转生变成史莱姆这档事【ADE】
+That.Time.I.Go.Reincarnated.as.a.Slime => That.Time.I.Got.Reincarnated.as.a.Slime
+
 Sousou.no.Frieren.S02E(?=.*ADWeb) => Sousou.no.Frieren.S01E && S01E <> 2026 >> EP+28
 
 转生之后的我变成了龙蛋～目标是世界最强～ => 转生之后的我变成了龙蛋{[tmdbid=285291;type=tv;]}
