@@ -1,3 +1,11 @@
+地狱模式～喜欢挑战特殊成就的玩家在废设定的异世界成为无双～ => {[tmdbid=280049;type=tv]}
+# 死亡账号 2026 强制绑定电视剧 TMDB 286291
+死亡账号 => 死亡账号{[tmdbid=286291;type=tv]}
+Puella.Magi.Madoka.Magica.the.Movie.Eternal.2012 => 剧场版魔法少女小圆 后篇 永远的故事{[tmdbid=152044;type=movie]}
+Puella.Magi.Madoka.Magica.the.Movie.Beginnings.2012 => 剧场版魔法少女小圆 前篇 起始的故事{[tmdbid=152042;type=movie]}
+Puella.Magi.Madoka.Magica.the.Movie.Rebellion.2013 => 剧场版魔法少女小圆 新篇 叛逆的故事{[tmdbid=212162;type=movie]}
+
+
 #关于我转生变成史莱姆这档事【ADE】
 That.Time.I.Go.Reincarnated.as.a.Slime => That.Time.I.Got.Reincarnated.as.a.Slime
 
