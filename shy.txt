@@ -1,3 +1,9 @@
+#一念永恒 年份修正【ADWeb】
+(?<=A\.Will\.Eternal.*)2026(?=.*ADWeb) => 2020
+
+#一念永恒 S04【ADWeb】
+A\.Will\.Eternal\.S04E(?=.*ADWeb) => A.Will.Eternal.S01E && S01E <> 2020 >> EP+165
+
 #无职转生～到了异世界就拿出真本事～ 2026 → 2021 修正年份电视剧 TMDB 94664
 (?<=Mushoku.Tensei.Isekai.Ittara.Honki.Dasu.S03.*?)2026 => 2021
 
