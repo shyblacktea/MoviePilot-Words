@@ -1,3 +1,6 @@
+#黑袍纠察队 2019 强制绑定电视剧 TMDB 76479
+The.Boys => 黑袍纠察队{[tmdbid=76479;type=tv]}
+
 #一念永恒 年份修正【ADWeb】
 (?<=A\.Will\.Eternal.*)2026(?=.*ADWeb) => 2020
 
@@ -102,3 +105,19 @@ Oppenheimer => 奥本海默
 Shameless => 无耻之徒 {[tmdbid=34307;type=tv]}
 
 S-Rank Monster no Behemoth Dakedo Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu => S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士(宠物)一起生活 {[tmdbid=249545;type=tv]}
+
+(?i)(?<=[\W_])BluRay.REMUX(?=[\W_]) => REMUX
+(?i)(?<=[\W_])HDR.DV(?=[\W_]) => DV.HDR
+(?i)(?<=[\W_])HDR.DoVi(?=[\W_]) => DV.HDR
+(?i)(?<=[\W_])DoVi(?=[\W_]) => DV
+(?i)(?<=[\W_])4k(?=[\W_]) => 2160p
+(?i)(?<=[\W_])H264(?=[\W_]) => x264
+(?i)(?<=[\W_])H265(?=[\W_]) => x265
+(?i)(?<=[\W_])x264(?=[\W_]) => x264
+(?i)(?<=[\W_])x265(?=[\W_]) => x265
+(?i)(?<=[\W_])Paramount+(?=[\W_]) => Paramount
+(?i)(?<=[\W_])Disney+(?=[\W_]) => Disney
+(?i)(?<=[\W_])DDP\.1(?=[\W_]) => DDP1
+(?i)(?<=[\W_])DDP\.2(?=[\W_]) => DDP2
+(?i)(?<=[\W_])DDP\.5(?=[\W_]) => DDP5
+(?i)(?<=[\W_])DDP\.7(?=[\W_]) => DDP7
