@@ -35,7 +35,7 @@ Oshi.no.Ko.S03E(?=.*ADWeb) => Oshi.no.Ko.{[tmdbid=203737;type=tv]}.S01E && S01E 
 
 Prison School => 监狱学园 {[tmdbid=64706;type=tv]}
 
-Monogatari.Series => 物语系列 {[tmdbid=46195;type=tv]}
+Monogatari.Series => 物语系列 {[tmdbid=46195;type=tv;g=6a3a296cc6f0168a53bf6244]}
 
 Invaders.of.the.Rokujyouma => 三坪房间的侵略者 {[tmdbid=70805;type=tv]}
 
