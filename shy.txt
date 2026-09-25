@@ -23,25 +23,25 @@ That.Time.I.Go.Reincarnated.as.a.Slime => That.Time.I.Got.Reincarnated.as.a.Slim
 
 Sousou.no.Frieren.S02E(?=.*ADWeb) => Sousou.no.Frieren.S01E && S01E <> 2026 >> EP+28
 
-转生之后的我变成了龙蛋～目标是世界最强～ => 转生之后的我变成了龙蛋{[tmdbid=285291;type=tv;]}
+转生之后的我变成了龙蛋～目标是世界最强～ => 转生之后的我变成了龙蛋{[tmdbid=285291;type=tv]}
 
-Mob.Psycho => 灵能百分百 {[tmdbid=67075-100;type=tv;]}
+Mob.Psycho => 灵能百分百 {[tmdbid=67075-100;type=tv]}
 
 #我推的孩子 第三季【ADWeb】
 Oshi.no.Ko.S03E(?=.*ADWeb) => Oshi.no.Ko.{[tmdbid=203737;type=tv]}.S01E && S01E <> 2026 >> EP+24
 【我推的孩子】 => 我推的孩子{[tmdbid=203737;type=tv]}
 
-海贼王ONE PIECE => {[tmdbid=37854;type=tv;]}
+海贼王ONE PIECE => {[tmdbid=37854;type=tv]}
 
-Prison School => 监狱学园 {[tmdbid=64706;type=tv;]
+Prison School => 监狱学园 {[tmdbid=64706;type=tv]}
 
-Monogatari.Series => 物语系列 {[tmdbid=46195;type=tv;]
+Monogatari.Series => 物语系列 {[tmdbid=46195;type=tv]}
 
-Invaders.of.the.Rokujyouma => 三坪房间的侵略者 {[tmdbid=70805;type=tv;]}
+Invaders.of.the.Rokujyouma => 三坪房间的侵略者 {[tmdbid=70805;type=tv]}
 
-My.Dress-Up.Darling.S01 => Sono.Bisque.Doll.wa.Koi.wo.Suru.S01 {[tmdbid=123249;type=tv;]}
+My.Dress-Up.Darling.S01 => Sono.Bisque.Doll.wa.Koi.wo.Suru.S01 {[tmdbid=123249;type=tv]}
 
-Love Between Fairy and Devil => 苍兰诀 {[tmdbid=206534;type=tv;]}
+Love Between Fairy and Devil => 苍兰诀 {[tmdbid=206534;type=tv]}
 苍兰诀.Love.Between.Fairy.and.Devil.S01 => 苍兰诀 {[tmdbid=206534;type=tv;s=1]}
 
 Steins;Gate.0 => 命运石之门0
@@ -54,7 +54,7 @@ Seishun.Buta.Yarou.wa.Santa.Claus.no.Yume.wo.Minai.S01 => 青春猪头少年不�
 Kanojo.Okarishimasu.S04 => Kano Kari.S01 && S01 <> 2025 >> EP+36
 Mattaku Saikin no Tantei to Kitara => 最近的侦探真没用
 Above the Kingdom of God => 神国之上
-Yuusha.Party.wo.Tsuihou.Sareta.Shiro.Madoushi.S.Rank.Boukensha.ni.Hirowareru.Kono.Shiro.Madoushi.ga.Kikakugaisugiru.S01 => 被驱逐开勇者派对的白魔导师，被S级冒险者捡到 ～这个白魔导师超规格～ {[tmdbid=284771;type=tv;]}
+Yuusha.Party.wo.Tsuihou.Sareta.Shiro.Madoushi.S.Rank.Boukensha.ni.Hirowareru.Kono.Shiro.Madoushi.ga.Kikakugaisugiru.S01 => 被驱逐开勇者派对的白魔导师，被S级冒险者捡到 ～这个白魔导师超规格～ {[tmdbid=284771;type=tv]}
 DTS-HDMA => DTS-HD.MA
 
 #在地下城寻求邂逅是否搞错了什么【ADE】
@@ -63,7 +63,7 @@ Danmachi.S01OVA(?=.+ADE) => Danmachi.S00E01
 Danmachi.S02OVA(?=.+ADE) => Danmachi.S00E03
 Danmachi.S03OVA(?=.+ADE) => Danmachi.S00E04
 
-关于我转生变成史莱姆这档事 第三季 - (\d{1,2}) .* => 关于我转生变成史莱姆这档事.S3 E\1  {[tmdbid=82684;type=tv;]} && 关于我转生变成史莱姆这档事.S3 E <>  >> EP-48
+关于我转生变成史莱姆这档事 第三季 - (\d{1,2}) .* => 关于我转生变成史莱姆这档事.S3 E\1  {[tmdbid=82684;type=tv]} && 关于我转生变成史莱姆这档事.S3 E <>  >> EP-48
 
 鬼滅之刃 柱訓練篇 => 鬼灭之刃 S05
 
@@ -72,7 +72,7 @@ BREAKER—防風少年 => 防风铃
 從 Lv2 開始開外掛的前勇者候補過著悠哉異世界生活 => Lv2 kara Cheat datta
 
 轉生為第七王子，隨心所欲的魔法學習之路 => 转生为第七王子，随心所欲的魔法学习之路
-轉生為第七王子，隨心所欲的魔法學習之路 => {[tmdbid=213830;type=tv;]}
+轉生為第七王子，隨心所欲的魔法學習之路 => {[tmdbid=213830;type=tv]}
 
 無職轉生～到了異世界就拿出真本事 第二季 => 无职转生 ～到了异世界就拿出真本事～ S02
 
@@ -83,7 +83,7 @@ Jujutsu.Kaisen.S02 => 咒术回战.S02
 
 魔法科高中的劣等生 第三季 => 魔法科高校的劣等生 S03
 
-海贼王ONE PIECE => {[tmdbid=37854;type=tv;]}
+海贼王ONE PIECE => {[tmdbid=37854;type=tv]}
 
 特别篇 => S00
 
