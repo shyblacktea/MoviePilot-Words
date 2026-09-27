@@ -1,3 +1,9 @@
+#死神 千年血战篇 祸进谭【ADWeb】S01E41-50 → S02E41-50
+BLEACH.Sennen.Kessen-hen.Kashin-tan.S01E(4[0-9]|50)(?=.*ADWeb) => 死神 {[tmdbid=30984;type=tv]} S02E\1
+
+#死神 Bleach The Series（Netflix 剧集组）绑定 TMDB 30984
+Bleach\.The\.Series\.S01 => Bleach {[tmdbid=30984;type=tv;g=67069c4d003c9214a0b3ceb1]} S02
+
 #黑袍纠察队 2019 强制绑定电视剧 TMDB 76479
 The.Boys => 黑袍纠察队{[tmdbid=76479;type=tv]}
 
