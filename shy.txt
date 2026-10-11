@@ -1,3 +1,6 @@
+#转生成为魔剑 2022 强制绑定电视剧 TMDB 134667
+Tensei Shitara Ken Deshita => 转生成为魔剑{[tmdbid=134667;type=tv]}
+
 #死神 千年血战篇 祸进谭【ADWeb】S01E41-50 → S02E41-50
 BLEACH.Sennen.Kessen-hen.Kashin-tan.S01E(4[0-9]|50)(?=.*ADWeb) => 死神 {[tmdbid=30984;type=tv]} S02E\1
 
